@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/mriyaz/notifications-page-challenge)
-- [Live Site URL](https://notifications-page-challenge-one.vercel.app/)
+- [Live Site URL](https://notifications-page-challenge-lyart.vercel.app/)
 
 ## My process
 
